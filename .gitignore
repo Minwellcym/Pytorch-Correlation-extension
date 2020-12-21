@@ -1,1 +1,7 @@
 *.egg*
+*.so
+__pycache__
+_ext
+*.pyc
+*.pyd
+build/
